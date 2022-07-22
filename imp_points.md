@@ -6,3 +6,4 @@ position
 Address bar creation
 menu bar create
 How to make a drop-down
+it contains features like 2 way binding
